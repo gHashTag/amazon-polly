@@ -1,0 +1,14 @@
+{"time":0,"type":"sentence","start":0,"end":10,"value":"Input text"}
+{"time":6,"type":"word","start":0,"end":5,"value":"Input"}
+{"time":6,"type":"viseme","value":"i"}
+{"time":91,"type":"viseme","value":"t"}
+{"time":182,"type":"viseme","value":"p"}
+{"time":285,"type":"viseme","value":"u"}
+{"time":356,"type":"viseme","value":"t"}
+{"time":418,"type":"word","start":6,"end":10,"value":"text"}
+{"time":418,"type":"viseme","value":"t"}
+{"time":500,"type":"viseme","value":"E"}
+{"time":627,"type":"viseme","value":"k"}
+{"time":743,"type":"viseme","value":"s"}
+{"time":871,"type":"viseme","value":"t"}
+{"time":989,"type":"viseme","value":"sil"}
